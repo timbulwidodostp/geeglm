@@ -1,6 +1,8 @@
 # geeglm
 Fit Generalized Estimating Equations (GEE) Use geeglm (geepack) With R Software
 
+https://www.youtube.com/watch?v=mHtXxs4Yc3A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
